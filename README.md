@@ -9,4 +9,4 @@ Support material for lab lessons.
 
 ### [Lab 3 - Evaluation in ML](/Lab%203/Lab%203%20-%20Evaluation%20in%20ML.ipynb)
 
-### [Lab 4 - Linear and Logistic Regression](/Lab%204/Lab%204%20-%20Linear%20and%20Logistic%20Regression.ipynb)
+### [Lab 4 - Linear Models](/Lab%204/Lab%204%20-%20Linear%20Models.ipynb)
