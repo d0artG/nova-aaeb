@@ -10,3 +10,5 @@ Support material for lab lessons.
 ### [Lab 3 - Evaluation in ML](/Lab%203/Lab%203%20-%20Evaluation%20in%20ML.ipynb)
 
 ### [Lab 4 - Linear Models](/Lab%204/Lab%204%20-%20Linear%20Models.ipynb)
+
+### [Lab 5 - Decision Trees and Model Optimization](/Lab%205/Lab%205%20-%20Decision%20Trees%20and%20Model%20Optimization.ipynb)
