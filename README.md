@@ -12,3 +12,5 @@ Support material for lab lessons.
 ### [Lab 4 - Linear Models](/Lab%204/Lab%204%20-%20Linear%20Models.ipynb)
 
 ### [Lab 5 - Decision Trees and Model Optimization](/Lab%205/Lab%205%20-%20Decision%20Trees%20and%20Model%20Optimization.ipynb)
+
+### [Lab 6 - Statistical Machine Learning](/Lab%206/Lab%206%20-%20Statistical%20Machine%20Learning.ipynb)
