@@ -14,3 +14,5 @@ Support material for lab lessons.
 ### [Lab 5 - Decision Trees and Model Optimization](/Lab%205/Lab%205%20-%20Decision%20Trees%20and%20Model%20Optimization.ipynb)
 
 ### [Lab 6 - Statistical Machine Learning](/Lab%206/Lab%206%20-%20Statistical%20Machine%20Learning.ipynb)
+
+### [Lab 7 - KNN and Combination of Classifiers](/Lab%207/Lab%207%20-%20KNN%20and%20Combination%20of%20Classifiers.ipynb)
