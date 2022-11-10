@@ -16,3 +16,5 @@ Support material for lab lessons.
 ### [Lab 6 - Statistical Machine Learning](/Lab%206/Lab%206%20-%20Statistical%20Machine%20Learning.ipynb)
 
 ### [Lab 7 - KNN and Combination of Classifiers](/Lab%207/Lab%207%20-%20KNN%20and%20Combination%20of%20Classifiers.ipynb)
+
+### [Lab 8 - Feature Selection and Unsupervised Learning](/Lab%208/Lab%208%20-%20Feature%20Selection%20and%20Unsupervised%20Learning.ipynb)
