@@ -19,4 +19,4 @@ Support material for lab lessons.
 
 ### [Lab 8 - Feature Selection and Unsupervised Learning](/Lab%208/Lab%208%20-%20Feature%20Selection%20and%20Unsupervised%20Learning.ipynb)
 
-### [Lab I - Introduction to Deep Learning](/Lab%209/Lab%209%20-%20Introduction%20to%20Deep%20Learning.ipynb)
+### [Lab 9 - Introduction to Deep Learning](/Lab%209/Lab%209%20-%20Introduction%20to%20Deep%20Learning.ipynb)
