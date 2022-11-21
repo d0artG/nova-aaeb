@@ -128,6 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*/UCI HAR Dataset/
+Lab 8/Data/UCI HAR Dataset/
 */UCI HAR Dataset.zip
 */__MACOSX/
