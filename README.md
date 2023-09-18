@@ -18,5 +18,3 @@ Support material for lab lessons.
 ### Lab 7 - KNN and Combination of Classifiers
 
 ### Lab 8 - Feature Selection and Unsupervised Learning
-
-### Lab 9 - Introduction to Deep Learning
