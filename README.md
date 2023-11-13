@@ -11,10 +11,12 @@ Support material for lab lessons.
 
 ### Lab 4 - Linear Models
 
-### Lab 5 - Decision Trees and Model Optimization
+### Lab 5 - Decision Trees and Feature Extraction
 
-### Lab 6 - Statistical Machine Learning
+### Lab 6 - Model Optimization - Cross Validation and Hyperparameter tuning
 
-### Lab 7 - KNN and Combination of Classifiers
+### Lab 7 - Statistical Machine Learning
 
-### Lab 8 - Feature Selection and Unsupervised Learning
+### Lab 8 - Dimensionality Reduction
+
+### Lab 9 - Unsupervised Learning
