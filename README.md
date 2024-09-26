@@ -6,7 +6,7 @@
 
 * Lab 2 - Data Preparation
 
-* Lab 3 - Genetic Search
+* Lab 3 - Genetic Algorithms
 
 * Lab 4 - Evaluation in ML
 
