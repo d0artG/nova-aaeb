@@ -30,7 +30,7 @@
 You will need:
 
 - `Python Editor` : [Visual Studio Code](https://code.visualstudio.com/download) (suggested, but you can use any other Python editor)
-- `Python: Anaconda distribution` : [Anaconda Download](https://www.anaconda.com/download/success)
+- `Python: Miniconda distribution` : [Anaconda Download](https://www.anaconda.com/download/success)
 
 # Installation
 
@@ -43,7 +43,7 @@ Clone this repository (If Git is not installed, run `conda install git` in the c
 
 Create a python environment
 
-    conda create -y -n aaeb python=3.11
+    conda create -y -n aaeb python=3.13
     conda activate aaeb
 
 Install dependencies
