@@ -1,4 +1,4 @@
-# Machine Learning in Biomedical Engineering (2024-2025)
+# Machine Learning in Biomedical Engineering (2025-2026)
 
 ###  Lab course organization
 
